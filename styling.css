@@ -82,4 +82,52 @@ li{
     left: -39px;
     border: 3px solid orangered;
   }
+#skills{
+     width: 600px;
+  text-align: justify;
+  margin-left: 750px;
+  margin-top: -70px;
+  }
+  .container {
+         width: 100%;
+         background-color: rgb(231, 231, 231);
+         border-radius: 20px;
+      }
+      .reading, .writing, .speaking, .listen {
+         text-align: center;
+         font-weight: bolder;
+         padding-top: 3px;
+         padding-bottom: 3px;
+         color: white;
+         border-radius: 20px;
+      }
+      .reading {
+         width: 90%;
+         background-color: #747272;
+      }
+      .writing {
+         width: 86%;
+         background-color: #747272;
+      }
+      .speaking {
+         width: 85%;
+         background-color: #747272;
+      }
+      .listen {
+         width: 98%;
+         background-color: #747272;
+      }
+      #tongue{
+        width: 600px;
+  text-align: justify;
+  margin-left: 750px;
+  margin-top: -70px;
+      }
+  #reference{
+    width: 600px;
+  text-align: justify;
+  margin-left: 750px;
+  margin-top: -70px;
+  }    
+
  
