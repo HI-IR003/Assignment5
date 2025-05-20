@@ -21,7 +21,7 @@ body{
 }
 img{
     border-radius: 50%;
-    margin-left: 380px;
+    margin-left: 200px;
     margin-top: 20px;
 }
 .section2{
@@ -42,6 +42,7 @@ li{
     padding: 20px;
     margin-top: 30px;
     margin-bottom: -20px;
+    
 }
 #obj{
   width: 600px;
